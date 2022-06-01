@@ -1,0 +1,15 @@
+  p,li,a {
+       	 font-family: Comic Sans MS;
+       	 color: greenyellow;
+       }
+
+
+   #blog {
+         font-family: Georgia;
+           color: blueviolet;
+  } 
+
+  .special {
+         font-family: Arial;
+           color: slategrey;
+  }         
